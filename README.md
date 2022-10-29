@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Eshel Eyni 👋
 
 <!--
 **EshelEyni/EshelEyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Connect with me:
+https://www.linkedin.com/in/eshel-eyni-71982b220/
+
+Languages and Tools:
+babel css3 express git html5 javascript jest mongodb nodejs postman react redux sass typescript
