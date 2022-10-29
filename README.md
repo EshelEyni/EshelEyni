@@ -2,7 +2,7 @@
 <h1 align="center">Hi there I'm Eshel Eyni 👋</h1>
 
 - 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
-- 🏆 I’m currently working on Symphony - an awesome Spotify clone. **check it out** [Symphony](https://symphony.onrender.com)
+- 🏆 I’m currently working on Symphony - an awesome Spotify clone. **check it out**, 👉 [Symphony](https://symphony.onrender.com)
 - 👨‍🎓 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on Angular projects.
 - 🤔 I’m looking for help with ...
