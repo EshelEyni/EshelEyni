@@ -1,6 +1,6 @@
-# Hi there I'm Eshel Eyni 👋
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there I'm Eshel Eyni 👋</h1>
+
 - 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 - 🏆 I’m currently working on Symphony - an awesome Spotify clone. **check it out** [Symphony](https://symphony.onrender.com)
 - 👨‍🎓 I’m currently learning Angular.
