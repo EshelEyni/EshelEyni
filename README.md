@@ -8,6 +8,8 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: **esheleyni@gmail.com**
 - ⚡ Fun fact: A cinema a literature enthusiastic, ask me about it!
+- 💚 program, art and anything smart.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
