@@ -2,9 +2,9 @@
 <h1 align="center">Hi there I'm Eshel Eyni 👋</h1>
 
 - 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
-- 🏆 I’m currently working on Symphony - an awesome Spotify clone. **check it out**, 👉 [Symphony](https://symphony.onrender.com)
-- 👨‍🎓 I’m currently learning Angular.
-- 👯 I’m looking to collaborate on Angular projects.
+- 🏆 I’m currently working on Symphony - an awesome Spotify clone. **check it out**, 👉 [Chirper](https://github.com/EshelEyni/Chirper)
+- 👨‍🎓 I’m currently learning React and Typescript.
+- 👯 I’m looking to collaborate on React projects.
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: **esheleyni@gmail.com**
 - ⚡ Fun fact: A cinema a literature enthusiastic, ask me about it!
